@@ -1,0 +1,52 @@
+/* Hero Section Styles */
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f9f9f9;
+}
+
+.hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.hero .cta-button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.hero .background-graphics {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    z-index: -1;
+}
+
+/* Feature Section Styles */
+.feature {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #fff;
+}
+
+.feature img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.feature .background-graphics {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    z-index: -1;
+}
